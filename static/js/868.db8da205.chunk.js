@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkflowhero=self.webpackChunkflowhero||[]).push([[868],{96868:function(e,u,l){l.r(u);var n=l(67861);u.default=function(){return n.createElement("div",null,n.createElement("h1",null,"Success"),n.createElement("h2",null,"Thank you for your purchase!"))}}}]);
-//# sourceMappingURL=868.db8da205.chunk.js.map
