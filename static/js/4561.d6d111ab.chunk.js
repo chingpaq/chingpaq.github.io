@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkflowhero=self.webpackChunkflowhero||[]).push([[4561],{64561:(e,l,n)=>{n.r(l),n.d(l,{default:()=>t});var a=n(67861);const t=()=>a.createElement("div",null,a.createElement("h1",null,"Cancel"),a.createElement("h2",null,"Your payment was canceled."))}}]);
+//# sourceMappingURL=4561.d6d111ab.chunk.js.map

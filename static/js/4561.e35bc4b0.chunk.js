@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkflowhero=self.webpackChunkflowhero||[]).push([[4561],{64561:function(e,l,n){n.r(l);var t=n(67861);l.default=function(){return t.createElement("div",null,t.createElement("h1",null,"Cancel"),t.createElement("h2",null,"Your payment was canceled."))}}}]);
-//# sourceMappingURL=4561.e35bc4b0.chunk.js.map

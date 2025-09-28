@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkflowhero=self.webpackChunkflowhero||[]).push([[6868],{96868:(e,l,u)=>{u.r(l),u.d(l,{default:()=>c});var r=u(67861);const c=()=>r.createElement("div",null,r.createElement("h1",null,"Success"),r.createElement("h2",null,"Thank you for your purchase!"))}}]);
+//# sourceMappingURL=6868.eafb0de3.chunk.js.map
